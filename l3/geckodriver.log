@@ -1,0 +1,601 @@
+1540056595209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XzAQ4sNvAKpE"
+
+(firefox:15856): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15856): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540056596449	Marionette	INFO	Listening on port 44044
+1540056596522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540056596567	Marionette	DEBUG	[2147483649] Frame script loaded
+1540056596569	Marionette	DEBUG	[2147483649] Frame script registered
+1540056601518	Marionette	DEBUG	[4294967297] Frame script loaded
+1540056601519	Marionette	DEBUG	[4294967297] Frame script registered
+1540056601543	Marionette	DEBUG	[4294967299] Frame script loaded
+1540056601544	Marionette	DEBUG	[4294967299] Frame script registered
+[Parent 15856, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540056603918	Marionette	INFO	Stopped listening on port 44044
+1540056605947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ab5GgaLSZUDM"
+
+(firefox:16177): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16177): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540056607255	Marionette	INFO	Listening on port 41725
+1540056607352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540056607390	Marionette	DEBUG	[2147483649] Frame script loaded
+1540056607391	Marionette	DEBUG	[2147483649] Frame script registered
+[Parent 16177, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540056621636	Marionette	INFO	Stopped listening on port 41725
+1540056708379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8ih5WQIe26Jd"
+
+(firefox:16502): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16502): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540056709631	Marionette	INFO	Listening on port 36935
+1540056709684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540056709727	Marionette	DEBUG	[2147483649] Frame script loaded
+1540056709732	Marionette	DEBUG	[2147483649] Frame script registered
+1540056709746	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540056712254	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540056720666	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540056724902	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://weszlo.com/
+1540056724927	Marionette	DEBUG	[2147483649] Received DOM event unload for http://weszlo.com/
+1540056724945	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540056724946	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1540056724946	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540056724947	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540056724947	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+1540056724987	Marionette	DEBUG	[4294967297] Frame script loaded
+1540056724988	Marionette	DEBUG	[4294967297] Frame script registered
+1540056725013	Marionette	DEBUG	[4294967299] Frame script loaded
+1540056725013	Marionette	DEBUG	[4294967299] Frame script registered
+[Parent 16502, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540056728081	Marionette	INFO	Stopped listening on port 36935
+1540056964665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.We4mI1T8kwCl"
+
+(firefox:16958): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16958): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540056965885	Marionette	INFO	Listening on port 40809
+1540056965975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540056966014	Marionette	DEBUG	[2147483649] Frame script loaded
+1540056966016	Marionette	DEBUG	[2147483649] Frame script registered
+1540056966026	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540056966301	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540056970549	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540056984306	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540056984306	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540056986041	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540057253890	Marionette	DEBUG	[2147483837] Frame script loaded
+1540057253901	Marionette	DEBUG	[2147483837] Frame script registered
+1540057253928	Marionette	DEBUG	[4294967297] Frame script loaded
+1540057253929	Marionette	DEBUG	[4294967297] Frame script registered
+1540057410935	Marionette	INFO	Stopped listening on port 40809
+1540057439550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UEdbfzW3ssjh"
+
+(firefox:18301): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18301): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540057440767	Marionette	INFO	Listening on port 32793
+1540057440860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540057440907	Marionette	DEBUG	[2147483649] Frame script loaded
+1540057440908	Marionette	DEBUG	[2147483649] Frame script registered
+1540057440921	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540057441208	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540057447183	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540057457244	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://weszlo.com/
+1540057457281	Marionette	DEBUG	[2147483649] Received DOM event unload for http://weszlo.com/
+1540057457295	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540057457296	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1540057457296	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540057457296	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540057457296	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 18301, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540057457447	Marionette	INFO	Stopped listening on port 32793
+1540057464764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y5DbreQQ6rzt"
+
+(firefox:18522): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18522): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540057465951	Marionette	INFO	Listening on port 44728
+1540057466004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540057466048	Marionette	DEBUG	[2147483649] Frame script loaded
+1540057466050	Marionette	DEBUG	[2147483649] Frame script registered
+1540057466064	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540057466324	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540057472859	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540057491698	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540057491699	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540057496456	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540057496457	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1540057496458	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1540057497135	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1540057519813	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540057580308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.azZIhbAxePDx"
+
+(firefox:18873): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18873): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540057581676	Marionette	INFO	Listening on port 46840
+1540057581714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540057581757	Marionette	DEBUG	[2147483649] Frame script loaded
+1540057581758	Marionette	DEBUG	[2147483649] Frame script registered
+1540057581778	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540057582163	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540057585774	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540057587252	Marionette	INFO	Stopped listening on port 44728
+1540057591942	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540057591942	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540057592611	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540057652246	Marionette	INFO	Stopped listening on port 46840
+1540057693281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vtlLIoUlnDvg"
+
+(firefox:19215): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19215): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540057694581	Marionette	INFO	Listening on port 39127
+1540057694590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540057694636	Marionette	DEBUG	[2147483649] Frame script loaded
+1540057694639	Marionette	DEBUG	[2147483649] Frame script registered
+1540057694653	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540057694952	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540057718475	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540057734609	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540057734609	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540057735405	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540057804255	Marionette	DEBUG	[4294967297] Frame script loaded
+1540057804256	Marionette	DEBUG	[4294967297] Frame script registered
+1540057804284	Marionette	DEBUG	[4294967299] Frame script loaded
+1540057804284	Marionette	DEBUG	[4294967299] Frame script registered
+[Parent 19215, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540057816536	Marionette	INFO	Stopped listening on port 39127
+1540058437536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EYqM6MAnD8Ln"
+
+(firefox:20233): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20233): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540058438862	Marionette	INFO	Listening on port 34248
+1540058438940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540058438977	Marionette	DEBUG	[2147483649] Frame script loaded
+1540058438978	Marionette	DEBUG	[2147483649] Frame script registered
+1540058438991	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540058439386	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540058441217	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540058447579	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1540058447580	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1540058473724	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 20320, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 20320, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540058514847	Marionette	INFO	Stopped listening on port 34248
+1540058546407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xvDhlVUKzmla"
+
+(firefox:20599): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20599): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540058547719	Marionette	INFO	Listening on port 33068
+1540058547813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540058547863	Marionette	DEBUG	[2147483649] Frame script loaded
+1540058547863	Marionette	DEBUG	[2147483649] Frame script registered
+1540058547878	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540058548219	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540058550139	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540058562995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540058562995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540058562996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540058562996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1540058562996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540058562997	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540058562997	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540058562997	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540058562997	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540058563573	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1540058563578	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1540058563649	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483715
+1540058563649	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483717
+1540058573696	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540058596843	Marionette	DEBUG	[2147483828] Frame script loaded
+1540058596853	Marionette	DEBUG	[2147483828] Frame script registered
+1540062167375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6mcZlbSLgyHJ"
+
+(firefox:25592): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25592): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540062168672	Marionette	INFO	Listening on port 32814
+1540062168699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062168741	Marionette	DEBUG	[2147483649] Frame script loaded
+1540062168745	Marionette	DEBUG	[2147483649] Frame script registered
+1540062168759	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540062169057	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540062171260	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540062177664	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540062177664	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540062178537	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540062178537	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540062178538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540062178538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540062178538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540062178538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1540062178538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540062178538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1540062178539	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1540062178915	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540062180116	Marionette	INFO	Stopped listening on port 33068
+JavaScript error: resource:///modules/PageStyleHandler.jsm, line 28: NS_ERROR_FAILURE: Failure
+1540062415411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JGW3OPVVKI5r"
+
+(firefox:26132): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26132): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540062416934	Marionette	INFO	Listening on port 43633
+1540062417017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062417066	Marionette	DEBUG	[2147483649] Frame script loaded
+1540062417068	Marionette	DEBUG	[2147483649] Frame script registered
+1540062417105	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540062417581	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540062419493	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+[Child 25681, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 25681, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 25681, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540062421790	Marionette	INFO	Stopped listening on port 32814
+1540062427795	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1540062427795	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540062431590	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1540062431591	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540062431591	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540062431591	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540062431591	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540062431592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540062431592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1540062431592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540062431592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1540062433211	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1540062512042	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540062538514	Marionette	DEBUG	[2147483832] Frame script loaded
+1540062538535	Marionette	DEBUG	[2147483832] Frame script registered
+1540062581672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c2lIHRGsURtx"
+
+(firefox:26645): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26645): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540062583089	Marionette	INFO	Listening on port 40488
+1540062583182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062583228	Marionette	DEBUG	[2147483649] Frame script loaded
+1540062583229	Marionette	DEBUG	[2147483649] Frame script registered
+1540062583241	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540062583529	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540062586977	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540062587967	Marionette	INFO	Stopped listening on port 43633
+1540062594304	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1540062594305	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540062596337	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540062692938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cGhCvvSgyB35"
+
+(firefox:27073): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27073): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540062694247	Marionette	INFO	Listening on port 40888
+1540062694346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062694392	Marionette	DEBUG	[2147483649] Frame script loaded
+1540062694393	Marionette	DEBUG	[2147483649] Frame script registered
+1540062694405	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540062694774	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540062697210	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+[Parent 26645, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540062697516	Marionette	INFO	Stopped listening on port 40488
+1540062704518	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1540062704519	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540062707022	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+[Child 27160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1540062769126	Marionette	INFO	Stopped listening on port 40888
+1540062772343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cpnt4IHuAcgg"
+
+(firefox:27488): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27488): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540062773630	Marionette	INFO	Listening on port 37204
+1540062773673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062773715	Marionette	DEBUG	[2147483649] Frame script loaded
+1540062773716	Marionette	DEBUG	[2147483649] Frame script registered
+1540062773729	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540062774019	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540062776427	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540062783086	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540062783087	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540062783458	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540062783459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1540062783460	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1540062783627	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540062802599	Marionette	DEBUG	[2147483826] Frame script loaded
+1540062802610	Marionette	DEBUG	[2147483826] Frame script registered
+console.error: (new TypeError("item is null", "resource://devtools/shared/base-loader.js -> resource://devtools/client/storage/ui.js", 1023))
+Warning: getUnicodeUrl failed to get a Unicode URL fromdebugger eval code, reason: TypeError: debugger eval code is not a valid URL.JavaScript error: https://www.youtube.com/yts/jsbin/player_remote_ux-vflJExy5G/en_US/base.js, line 2265: Error: Permission denied to access object
+Warning: getUnicodeUrlPath failed to get a Unicode URL from?id=537109524&val=$partnerKey%A0, reason: URIError: malformed URI sequenceWarning: getUnicodeUrl failed to get a Unicode URL fromhttp://eu-u.openx.net/w/1.0/sd?id=537109524&val=$partnerKey%A0, reason: URIError: malformed URI sequenceWarning: getUnicodeUrlPath failed to get a Unicode URL from?id=537109524&val=$partnerKey%A0, reason: URIError: malformed URI sequenceWarning: getUnicodeUrl failed to get a Unicode URL fromhttp://eu-u.openx.net/w/1.0/sd?id=537109524&val=$partnerKey%A0, reason: URIError: malformed URI sequenceHandler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 27579, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 27579, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540063190160	Marionette	INFO	Stopped listening on port 37204
+1540063310369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fSj4h11ePOo6"
+
+(firefox:28263): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28263): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540063311582	Marionette	INFO	Listening on port 35610
+1540063311683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540063311728	Marionette	DEBUG	[2147483649] Frame script loaded
+1540063311729	Marionette	DEBUG	[2147483649] Frame script registered
+1540063311748	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540063312261	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540063314141	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540063324666	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540063324666	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540063379460	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540063540809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.74D4ojLnSHxo"
+
+(firefox:29048): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29048): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540063542113	Marionette	INFO	Listening on port 35298
+1540063542215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540063542259	Marionette	DEBUG	[2147483649] Frame script loaded
+1540063542261	Marionette	DEBUG	[2147483649] Frame script registered
+1540063542276	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540063542670	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540063544496	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540063546300	Marionette	INFO	Stopped listening on port 35610
+1540063555574	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540063555575	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540063619100	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1540063619101	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1540063619101	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1540063619101	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1540063619102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1540063619102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1540063619102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1540063619102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1540063619102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1540063619289	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540063846464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6qBUPCYqnaNw"
+
+(firefox:29372): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29372): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540063847742	Marionette	INFO	Listening on port 36625
+1540063847787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540063847830	Marionette	DEBUG	[2147483649] Frame script loaded
+1540063847832	Marionette	DEBUG	[2147483649] Frame script registered
+1540063891971	Marionette	DEBUG	[2147483741] Frame script loaded
+1540063891977	Marionette	DEBUG	[2147483741] Frame script registered
+1540063892015	Marionette	DEBUG	[4294967297] Frame script loaded
+1540063892016	Marionette	DEBUG	[4294967297] Frame script registered
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 29048, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29141, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 29141, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540064010479	Marionette	INFO	Stopped listening on port 35298
+[Parent 29372, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540064012351	Marionette	INFO	Stopped listening on port 36625
+1540064096280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P4oTw9sEaKce"
+
+(firefox:29745): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29745): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540064097705	Marionette	INFO	Listening on port 44734
+1540064097789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540064097857	Marionette	DEBUG	[2147483649] Frame script loaded
+1540064097858	Marionette	DEBUG	[2147483649] Frame script registered
+1540064097871	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540064098297	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540064100330	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540064113297	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540064113297	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540064113297	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540064113298	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1540064113298	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540064113298	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540064113299	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540064113299	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540064113299	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540064114101	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1540064114107	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1540064116815	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483729
+1540064116817	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483731
+1540064129473	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540064219130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PeJHSP8pUbAB"
+
+(firefox:30110): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30110): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540064220450	Marionette	INFO	Listening on port 37062
+1540064220539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540064220582	Marionette	DEBUG	[2147483649] Frame script loaded
+1540064220586	Marionette	DEBUG	[2147483649] Frame script registered
+1540064220605	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540064221679	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 29839, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1540064223573	Marionette	INFO	Stopped listening on port 44734
+1540064224967	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540064233538	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540064233539	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540064258716	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+console.warn: "Failed to enumerate CacheStorage for host javascript:(fjfazc11b76l=function(t,r,e,o,n,p,c,a,f,y){for(;2>o;)for(a=e[p=typeof t[o++]]={},c=window[p.replace(/./,p.charAt().toUpperCase())],f=r?r(c).concat(r(c.prototype)):[],p=0;n=f[p++];)try{'_'!=n.charAt()&&(a[n]=(y=c[n]).apply.bind(y))}catch(i){}return function(t,r,o){return e[typeof t][r](t,o)}}([{},[].slice],Object.getOwnPropertyNames,{},0),'1'): SecurityError: The operation is insecure."
+[Parent 30110, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540064343909	Marionette	INFO	Stopped listening on port 37062
+1540065131607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5amtdgXh0Tfd"
+
+(firefox:1645): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1645): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540065132950	Marionette	INFO	Listening on port 42325
+1540065133019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540065133058	Marionette	DEBUG	[2147483649] Frame script loaded
+1540065133059	Marionette	DEBUG	[2147483649] Frame script registered
+1540065133071	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540065133970	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540065138349	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540065139712	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://weszlo.com/
+1540065139740	Marionette	DEBUG	[2147483649] Received DOM event unload for http://weszlo.com/
+1540065139751	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540065139752	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540065139752	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540065139752	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+JavaScript error: http://weszlo.com/ouzyUUm9Y6OjCoZEX.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1540065143995	Marionette	INFO	Stopped listening on port 42325
+1540065200400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VPNsmQ87dxgM"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/tomasz which is owned by tomasz.)
+1540065259343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3A4OpLRTTleZ"
+
+(firefox:2604): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2604): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540065260630	Marionette	INFO	Listening on port 36527
+1540065260660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540065260706	Marionette	DEBUG	[2147483649] Frame script loaded
+1540065260706	Marionette	DEBUG	[2147483649] Frame script registered
+1540065260726	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540065261889	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540065265149	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540065271859	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540065271860	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540065279645	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1540065279646	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1540065279647	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1540065280092	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540065300642	Marionette	INFO	Stopped listening on port 36527
+1540065463592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c5FdBiRQHVYY"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/tomasz which is owned by tomasz.)
+1540065502139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zNDkCmTMRuMc"
+
+(firefox:4213): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4213): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540065503484	Marionette	INFO	Listening on port 36915
+1540065503544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540065503585	Marionette	DEBUG	[2147483649] Frame script loaded
+1540065503586	Marionette	DEBUG	[2147483649] Frame script registered
+1540065503606	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540065504571	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540065509622	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://weszlo.com/
+1540065520437	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1540065520438	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1540065525130	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://weszlo.com/
+1540065540947	Marionette	DEBUG	[4294967297] Frame script loaded
+1540065540948	Marionette	DEBUG	[4294967297] Frame script registered
+1540065540974	Marionette	DEBUG	[4294967299] Frame script loaded
+1540065540975	Marionette	DEBUG	[4294967299] Frame script registered
+[Parent 4213, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540065542170	Marionette	INFO	Stopped listening on port 36915
