@@ -1,0 +1,20 @@
+<!-- templates/przelewy/make_transfer.html-->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        
+        <form action="{% url 'data_confirmation' %}" method="POST">
+            {% csrf_token %}
+            Recipient: <input type="text" name="recipient"><br>
+            Amount: <input type="text" name="amount"><br>
+            <input type="submit" value="Make transfer">
+        </form>
+    {% else %}
+        <p>You are not logged in</p>
+        <p><a href="{% url 'login' %}">login</a></p>
+        <p><a href="{% url 'signup' %}">sign up</a></p>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,18 @@
+<!-- templates/home.html-->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        Hi {{ user.username }}!
+        <p><a href="{% url 'password_reset' %}">reset password</a></p>
+        <p><a href="{% url 'make_transfer' %}">make transfer</a></p>
+        <p><a href="{% url 'transfers' %}">my transfers</a></p>
+        <p><a href="{% url 'logout' %}">logout</a></p>
+    {% else %}
+        <p>You are not logged in</p>
+        <p><a href="{% url 'login' %}">login</a></p>
+        <p><a href="{% url 'signup' %}">sign up</a></p>
+    {% endif %}
+{% endblock %}

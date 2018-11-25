@@ -1,0 +1,24 @@
+
+<!-- templates/przelewy/data_confirmation.html-->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        <p>Sender: {{  sender  }}<br>
+            Recipient: {{  recipient  }}<br>
+            Amount: {{  amount  }}<br>
+        <form action="{% url 'transfer_confirmation' %}" method="POST">
+            {% csrf_token %}
+                <input type="hidden" name="sender" value = "{{  sender  }}" ><br>
+                <input type="hidden" name="recipient" value = "{{  recipient  }}"><br>
+                <input type="hidden" name="amount" value = "{{  amount  }}"><br>
+            <input type="submit" value="Confirm transfer">
+        </form>
+    {% else %}
+        <p>You are not logged in</p>
+        <p><a href="{% url 'login' %}">login</a></p>
+        <p><a href="{% url 'signup' %}">sign up</a></p>
+    {% endif %}
+{% endblock %}

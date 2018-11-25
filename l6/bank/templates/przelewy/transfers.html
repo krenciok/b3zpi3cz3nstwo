@@ -1,0 +1,22 @@
+<!-- templates/przelewy/transfers.html-->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        <p>Transfer out:</p>
+        {% for tr in transfers_out %}
+            <li>{{tr}}</li>
+        {% endfor %}
+        <p>Transfer in:</p><br>
+        {% for tr in transfers_in %}
+            <li>{{tr}}</li>
+        {% endfor %}
+        <p><a href="{% url 'home' %}">home</a></p>
+    {% else %}
+        <p>You are not logged in</p>
+        <p><a href="{% url 'login' %}">login</a></p>
+        <p><a href="{% url 'signup' %}">sign up</a></p>
+    {% endif %}
+{% endblock %}

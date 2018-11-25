@@ -1,0 +1,21 @@
+<!-- templates/przelewy/transfer_confirmation.html-->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        <p>
+            Transfer was successful<br>
+            Sender: {{  sender  }}<br>
+            Recipient: {{  recipient  }}<br>
+            Amount: {{  amount  }}<br>
+            Date: {{  date  }}<br>
+        <p><a href="{% url 'home' %}">home</a></p>  
+        <p><a href="{% url 'transfers' %}">my transfers</a></p>  
+    {% else %}
+        <p>You are not logged in</p>
+        <p><a href="{% url 'login' %}">login</a></p>
+        <p><a href="{% url 'signup' %}">sign up</a></p>
+    {% endif %}
+{% endblock %}
