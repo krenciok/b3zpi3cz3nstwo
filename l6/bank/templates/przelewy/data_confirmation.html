@@ -9,11 +9,13 @@
         <p>Sender: {{  sender  }}<br>
             Recipient: {{  recipient  }}<br>
             Amount: {{  amount  }}<br>
+            Description: {{  description  }}
         <form action="{% url 'transfer_confirmation' %}" method="POST">
             {% csrf_token %}
                 <input type="hidden" name="sender" value = "{{  sender  }}" ><br>
                 <input type="hidden" name="recipient" value = "{{  recipient  }}"><br>
                 <input type="hidden" name="amount" value = "{{  amount  }}"><br>
+                <input type="hidden" name="description" value = "{{  description  }}"><br>
             <input type="submit" value="Confirm transfer">
         </form>
     {% else %}

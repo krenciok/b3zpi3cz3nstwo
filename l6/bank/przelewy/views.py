@@ -10,7 +10,8 @@ def data_confirmation(request):
         sender = request.user.username
         recipient = request.POST['recipient']
         amount = request.POST['amount']
-        context = {'sender':sender,'recipient':recipient,'amount':amount}
+        description = request.POST['description']
+        context = {'sender':sender,'recipient':recipient,'amount':amount,'description':description}
         return render(request,'przelewy/data_confirmation.html',context)
 
 
@@ -18,6 +19,7 @@ def transfer_confirmation(request):
     if request.method == 'POST':
         sender = request.POST['sender']
         recipient = request.POST['recipient']
+        description = request.POST['description']
         amount = request.POST['amount']
         date=timezone.now()
 
@@ -25,6 +27,7 @@ def transfer_confirmation(request):
             sender=sender,
             recipient=recipient,
             amount=amount,
+            description=description,
             created_date=date,
         )
         date2=date.strftime("%d-%m-%y %H:%M:%S")
