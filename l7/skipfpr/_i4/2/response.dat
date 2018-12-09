@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Dec 2018 16:13:05 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Content-Length: 834
+Expires: Sun, 09 Dec 2018 16:13:05 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: must-revalidate, no-cache, no-store, max-age=0
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=8Uhr32fxcFXjsRT7a93I8YAMAn5L4QYS529MAu9ieLqZNoDVx06hptKf51wnOdKw; expires=Sun, 08 Dec 2019 16:13:05 GMT; Max-Age=31449600; Path=/; SameSite=Lax
+
+<!-- templates/registration/login.html -->
+<!-- templates/base.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Login</title>
+</head>
+<body>
+<main>
+    
+    <h2>Login</h2>
+    <form method="post"

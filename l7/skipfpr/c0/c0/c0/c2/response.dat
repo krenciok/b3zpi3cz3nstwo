@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Date: Sun, 09 Dec 2018 16:13:05 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Content-Length: 0
+Expires: Sun, 09 Dec 2018 16:13:05 GMT
+Location: /
+Content-Type: text/html; charset=utf-8
+Cache-Control: must-revalidate, no-cache, no-store, max-age=0
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: sessionid=ug7jo63oarn21q1bpwz8jwicfqqrs643; expires=Sun, 23 Dec 2018 16:13:05 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax
+Set-Cookie: csrftoken=sof7LvD1xOe7o8bg7YcoTzyVpVWNC2oLbMDkuTEGizRskj5GvJ9GqTSm6fcWJRPQ; expires=Sun, 08 Dec 2019 16:13:05 GMT; Max-Age=31449600; Path=/; SameSite=Lax
+

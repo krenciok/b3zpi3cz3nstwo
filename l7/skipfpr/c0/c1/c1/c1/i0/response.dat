@@ -1,0 +1,71 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Dec 2018 16:13:38 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Content-Length: 1819
+Expires: Sun, 09 Dec 2018 16:13:38 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: must-revalidate, no-cache, no-store, max-age=0
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: sessionid=""; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/
+Set-Cookie: csrftoken=EOnz2v4N9xUzVOU1Bm1VqYm519u69KStscx9kxx2Z9X35INhDA7q0NHQw2FDrsLY; expires=Sun, 08 Dec 2019 16:13:38 GMT; Max-Age=31449600; Path=/; SameSite=Lax
+
+<!DOCTYPE html>
+
+<html lang="en-us" >
+<head>
+<title>Log in | Django site admin</title>
+<link rel="stylesheet" type="text/css" href="/static/admin/css/base.css">
+<link rel="stylesheet" type="text/css" href="/static/admin/css/login.css">
+
+
+
+
+
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/static/admin/css/responsive.css">
+    
+
+<meta name="robots" content="NONE,NOARCHIVE">
+</head>
+
+
+<body class=" login"
+  data-admin-utc-offset="0">
+
+<!-- Container -->
+<div id="container">
+
+    
+    <!-- Header -->
+    <div id="header">
+        <div id="branding">
+        
+<h1 id="site-name"><a href="/admin/">Django administration</a></h1>
+
+        </div>
+        
+        
+    </div>
+    <!-- END Header -->
+    
+    
+
+    
+        
+    
+
+    <!-- Content -->
+    <div id="content" class="colM">
+        
+        
+        
+
+
+
+
+<div id="content-main">
+
+
+
+<form action="/admin/login/?next=/admin/" method="post" id="login-form"

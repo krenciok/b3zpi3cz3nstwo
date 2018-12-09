@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Date: Sun, 09 Dec 2018 16:15:48 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Content-Length: 0
+Expires: Sun, 09 Dec 2018 16:15:48 GMT
+Location: /admin/login/?next=/admin/przelewy/transfer/
+Cache-Control: must-revalidate, no-cache, no-store, max-age=0
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: sessionid=""; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/

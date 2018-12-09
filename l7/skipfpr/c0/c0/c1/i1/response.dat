@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Dec 2018 16:12:50 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Vary: Cookie
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Content-Length: 1493
+Set-Cookie: csrftoken=8dfQ252heLEi1LUSTaSPfHAJdwfuWda9OQU4bfywRdNgdBxTQ3m6HvAM1B95ocpS; expires=Sun, 08 Dec 2019 16:12:50 GMT; Max-Age=31449600; Path=/; SameSite=Lax
+
+<!-- templates/signup.html -->
+<!-- templates/base.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Sign Up</title>
+</head>
+<body>
+<main>
+    
+    <h2>Sign up</h2>
+    <form method="post"

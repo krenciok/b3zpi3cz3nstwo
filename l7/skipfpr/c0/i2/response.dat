@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Dec 2018 16:12:49 GMT
+Server: WSGIServer/0.2 CPython/3.5.2
+Content-Length: 343
+Vary: Cookie
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+
+<!-- templates/home.html-->
+<!-- templates/base.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Home</title>
+</head>
+<body>
+<main>
+    
+    
+        <p>You are not logged in</p>
+        <p><a href="/accounts/login/">login</a></p>
+        <p><a href="/accounts/signup/">sign up</a></p>
+    
+
+</main>
+</body>
+</html>
